@@ -1,0 +1,9 @@
+{
+    "name": "test",
+    "version-string": "1.0",
+    "dependencies": ["sdl2","glm","glew","stb","assimp","fmt", {
+
+        "name": "imgui",
+        "features":["sdl2-binding","opengl3-binding","docking-experimental"]
+    }]
+}
